@@ -20,7 +20,7 @@
     "express": "^4.17.1",
     "foundation-sites": "^6.2.0",
     "jquery": "^2.2.1",
-    "karma": "^0.13.22",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^0.2.2",
     "karma-cli": "^2.0.0",
     "karma-htmlfile-reporter": "^0.3.8",
